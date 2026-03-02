@@ -1,0 +1,15 @@
+{
+  "name": "漸層道路",
+  "description": "從深色中心到淺色邊緣的平滑漸層",
+  "bg": "#FFFFFF",
+  "text": "#000000",
+  "gradient_color": "#FFFFFF",
+  "water": "#D5D5D5",
+  "parks": "#EFEFEF",
+  "road_motorway": "#050505",
+  "road_primary": "#151515",
+  "road_secondary": "#2A2A2A",
+  "road_tertiary": "#404040",
+  "road_residential": "#555555",
+  "road_default": "#404040"
+}

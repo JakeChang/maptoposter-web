@@ -1,0 +1,15 @@
+{
+  "name": "秋日暖陽",
+  "description": "焦橙、深紅、金黃 — 季節的溫暖色調",
+  "bg": "#FBF7F0",
+  "text": "#8B4513",
+  "gradient_color": "#FBF7F0",
+  "water": "#D8CFC0",
+  "parks": "#E8E0D0",
+  "road_motorway": "#8B2500",
+  "road_primary": "#B8450A",
+  "road_secondary": "#CC7A30",
+  "road_tertiary": "#D9A050",
+  "road_residential": "#E8C888",
+  "road_default": "#CC7A30"
+}

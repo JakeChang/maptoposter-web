@@ -1,0 +1,35 @@
+Custom License
+
+Copyright (c) 2026 Jake Chang
+
+This project is inspired by and partially based on maptoposter
+(https://github.com/originalankur/maptoposter)
+Original Copyright (c) 2026 Ankur Gupta, licensed under MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+and modify the Software for private, non-commercial purposes only, subject to
+the following conditions:
+
+PERMITTED:
+- Private use
+- Modification of the source code for personal use
+
+NOT PERMITTED:
+- Commercial use
+- Distribution of the Software or any derivative works
+- Sublicensing
+- Public distribution or publication
+
+For commercial licensing or distribution rights, please contact the author.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
